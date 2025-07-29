@@ -58,6 +58,14 @@ fun LoginScreen() {
             fontWeight = FontWeight.SemiBold,
             color = Color.Black
         )
+        Text(
+            text = "Saiful Islam",
+            fontSize = 16.sp,
+            fontWeight = FontWeight.SemiBold,
+            color = Color.Black
+        )
+
+
 
     }
 }
