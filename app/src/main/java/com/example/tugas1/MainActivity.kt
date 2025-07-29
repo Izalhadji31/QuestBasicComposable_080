@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             TUGAS1Theme {
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
+                    LoginScreen()
                 }
             }
         }
