@@ -64,6 +64,15 @@ fun LoginScreen() {
             fontWeight = FontWeight.SemiBold,
             color = Color.Black
         )
+        Spacer(modifier = Modifier.height(5.dp))
+
+        Text(
+            text = "20210140080",
+            fontSize = 16.sp,
+            fontWeight = FontWeight.Bold,
+            color = Color.Black
+        )
+
 
 
 
